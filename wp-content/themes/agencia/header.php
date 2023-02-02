@@ -12,7 +12,7 @@
     <img src="logo.5b7fbf6d.svg" alt="">
   </a>
   <ul class="nav__menu">
-    <li><a href="#">Acheter</a></li>
+    <li><a href="#">Acheter un bien</a></li>
     <li><a href="listing.html" aria-current="page">Louer</a></li>
     <li><a href="news.html">Actualité</a></li>
     <li><a href="#">Contact</a></li>
